@@ -18,7 +18,7 @@ function score(candidate, medicalExam, scoringGuide) {
 }
 
 // after
-function score(can`didate, medicalExam, scoringGuide) {
+function score(candidate, medicalExam, scoringGuide) {
     return new Score().execute(candidate, medicalExam, scoringGuide);
 }
 
